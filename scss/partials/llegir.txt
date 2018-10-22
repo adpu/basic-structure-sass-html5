@@ -1,0 +1,1 @@
+Aquesta carpeta partials, conté el codi propi que s'ha de compilar (mixers, parametres, anidaminetos...)
