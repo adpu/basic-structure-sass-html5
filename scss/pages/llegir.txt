@@ -1,1 +1,0 @@
-Aquesta carpeta pages, conté el codi que utilitzo en les pàgines.

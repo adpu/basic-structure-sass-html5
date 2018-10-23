@@ -1,1 +1,0 @@
-Aquesta carpeta vendor, conté el codi de tercers( iconmoon, fontello, fontface, flexslider, bootstrap....)
